@@ -1,25 +1,25 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [197] using StatReload
-INFO:     Started server process [199]
+INFO:     Started reloader process [251] using StatReload
+INFO:     Started server process [253]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:45254 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:45270 - "GET /api/posts HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45286 - "GET /api/resources HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45318 - "GET /api/posts HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45296 - "GET /api/resources HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45270 - "GET /api/posts HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45286 - "GET /api/resources HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45296 - "GET /api/resources HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45318 - "GET /api/posts HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45294 - "GET /api/doctors HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45294 - "GET /api/doctors HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45292 - "GET /api/doctors HTTP/1.1" 200 OK
-INFO:     172.20.0.1:45292 - "GET /api/doctors HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56476 - "GET /api/resources HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56484 - "GET /api/doctors HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56476 - "GET /api/resources HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56484 - "GET /api/doctors HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56466 - "GET /api/posts HTTP/1.1" 200 OK
-INFO:     172.20.0.1:56466 - "GET /api/posts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35216 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:35236 - "GET /api/posts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35244 - "GET /api/posts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35252 - "GET /api/doctors HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35220 - "GET /api/doctors HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35236 - "GET /api/posts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35244 - "GET /api/posts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35220 - "GET /api/doctors HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35252 - "GET /api/doctors HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35250 - "GET /api/resources HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35242 - "GET /api/resources HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35242 - "GET /api/resources HTTP/1.1" 200 OK
+INFO:     172.20.0.1:35250 - "GET /api/resources HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38866 - "GET /api/posts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38874 - "GET /api/resources HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38866 - "GET /api/posts HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38874 - "GET /api/resources HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38876 - "GET /api/doctors HTTP/1.1" 200 OK
+INFO:     172.20.0.1:38876 - "GET /api/doctors HTTP/1.1" 200 OK
